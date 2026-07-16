@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
   font-family: sans-serif;
   max-width: 400px;
@@ -51,64 +50,3 @@ select {
     padding: 10px 16px;
     font-size: 18px;
 }
-=======
-body {
-  font-family: sans-serif;
-  max-width: 400px;
-  margin: 40px auto;
-  text-align: center;
-}
-
-button {
-  width: 100%;
-  padding: 15px;
-  margin-top: 10px;
-  font-size: 18px;
-}
-
-#cardList div {
-    border: 1px solid #ddd;
-    padding: 12px;
-    margin: 10px 0;
-    border-radius: 8px;
-}
-
-.progress {
-    font-size: 14px;
-    color: gray;
-}
-
-#backButton {
-    margin-top: 20px;
-}
-
-.back-button {
-    width: auto;
-    padding: 8px 12px;
-    font-size: 14px;
-}
-
-#saveButton {
-    width: auto;
-    padding: 5pt 12px;
-    font-size: 14px;
-}
-
-#editButton {
-    width: auto;
-    padding: 5pt 12px;
-    font-size: 14px;
-}
-
-#deleteButton {
-    width: auto;
-    padding: 5pt 12px;
-    font-size: 14px;
-}
-
-#updateButton {
-    width: auto;
-    padding: 5pt 12px;
-    font-size: 14px;
-}
->>>>>>> 68f23015569fa0d9954f2b6cb231cce2a34b77bb
