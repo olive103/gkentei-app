@@ -17,11 +17,15 @@ button {
 input,
 textarea,
 select {
-    width: 90%;
-    padding: 12px;
+    width: 95%;
+    padding: 16px;
     font-size: 20px;
     box-sizing: border-box;
-    margin-bottom: 12px;
+    margin-bottom: 16px;
+}
+
+textarea {
+    min-height: 140px;
 }
 
 #cardList div {
